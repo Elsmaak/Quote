@@ -1,0 +1,17 @@
+header {
+    background-color: #8ecccc;
+}
+body {
+    color: #212121;
+}
+p {
+    font-size: 2rem;
+}
+h1 {
+    font-size: 5.3rem;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+::selection{
+    background-color: #212121;
+}
